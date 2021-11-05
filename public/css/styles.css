@@ -1,0 +1,8 @@
+.search-bg-custom {
+    background-color: rgba(255, 255, 255, 0.137);
+    border: none;
+}
+
+.search-bg-custom::placeholder {
+    color: #fff;
+}
