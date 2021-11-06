@@ -1,5 +1,5 @@
 <!-- Footer -->
-<footer class="d-flex px-5 py-3 justify-content-between text-center text-lg-start bg-dark mt-4 text-muted">
+<footer class="d-flex px-5 py-3 justify-content-between text-center text-lg-start bg-navbar mt-4 text-muted">
     <div class="col-md-4 col-sm-2 py-2 text-muted copyright">
       © 2021 Copyright:
     </div>
