@@ -13,6 +13,7 @@
 
   {{-- Style me --}}
   <link rel="stylesheet" href="/css/styles.css" >
+  <link rel="stylesheet" href="/css/navbar.css" >
 
   <link rel="icon" href="/favicon.ico" />
 
