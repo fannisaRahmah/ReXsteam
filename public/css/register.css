@@ -1,31 +1,30 @@
-.search-bg-custom {
-    background-color: #384454;
-    border: none;
+.register{
+    display: flex;
+    height: 80vh;
 }
 
-.search-bg-custom::placeholder {
-    color: #fff;
-}
-
-<<<<<<< HEAD
-
-=======
-/* Login */
-.form-signin {
+.form-register {
     width: 100%;
-    max-width: 40%;
+    height: 80vh;
+    max-width: 50%;
     background-color:#141c30;
     color: white;
     margin: 0;
-    padding: 100px;
+    padding:100px 100px; 
+    z-index: 1;
 }
 
 .submit-btn{
     background-color: #5044e0;
     color: white;
 }
+
+.submit-btn:hover{
+    color: white !important;
+    background-color: #473cbb;
+}
   
-.form-signin .checkbox {
+.form-register .checkbox {
     font-weight: 400;
 }
   
@@ -33,14 +32,13 @@
     z-index: 2;
 } */
   
-.form-signin input[type="name"] {
+.form-register input[type="name"] {
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
 }
   
-.form-signin input[type="password"] {
+.form-register input[type="password"] {
     margin-bottom: 10px;
     border-top-left-radius: 0;
     border-top-right-radius: 0;
 }    
->>>>>>> fb4dd0b62f61ca2d005ec9a11c1d2cdd429a9835

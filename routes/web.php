@@ -27,3 +27,10 @@ Route::get('/login', function () {
         "active" => "login"
     ]);
 });
+
+Route::get('/register', function () {
+    return view('register', [
+        "title" => "Register",
+        "active" => "register"
+    ]);
+});
