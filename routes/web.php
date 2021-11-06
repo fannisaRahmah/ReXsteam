@@ -19,3 +19,11 @@ Route::get('/', function () {
         "active" => "home"
     ]);
 });
+
+
+Route::get('/login', function () {
+    return view('login', [
+        "title" => "Login",
+        "active" => "login"
+    ]);
+});

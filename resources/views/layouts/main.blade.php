@@ -23,7 +23,7 @@
   {{-- Component --}}
   @include("partials.navbar")
 
-  <div class="container mt-4">
+  <div class="mt-0">
     @yield('container')
   </div>
 
