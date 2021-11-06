@@ -14,6 +14,8 @@
   {{-- Style me --}}
   <link rel="stylesheet" href="/css/styles.css" >
 
+  <link rel="icon" href="/favicon.ico" />
+
   <title>ReSteam | {{ $title }}</title>
 </head>
 <body>
