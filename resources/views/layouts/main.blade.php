@@ -13,12 +13,9 @@
 
   {{-- Style me --}}
   <link rel="stylesheet" href="/css/styles.css" >
-<<<<<<< HEAD
   <link rel="stylesheet" href="/css/login.css" >
   <link rel="stylesheet" href="/css/register.css" >
-=======
   <link rel="stylesheet" href="/css/navbar.css" >
->>>>>>> fb4dd0b62f61ca2d005ec9a11c1d2cdd429a9835
 
   <link rel="icon" href="/favicon.ico" />
 
