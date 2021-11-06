@@ -13,6 +13,8 @@
 
   {{-- Style me --}}
   <link rel="stylesheet" href="/css/styles.css" >
+  <link rel="stylesheet" href="/css/login.css" >
+  <link rel="stylesheet" href="/css/register.css" >
 
   <link rel="icon" href="/favicon.ico" />
 

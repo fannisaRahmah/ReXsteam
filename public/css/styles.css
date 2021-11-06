@@ -7,42 +7,4 @@
     color: #fff;
 }
 
-<<<<<<< HEAD
-/* Login */
-.form-signin {
-    width: 100%;
-    max-width: 40%;
-    background-color:#141c30;
-    color: white;
-    margin: 0;
-    padding: 100px;
-}
 
-.submit-btn{
-    background-color: #5044e0;
-    color: white;
-}
-  
-.form-signin .checkbox {
-    font-weight: 400;
-}
-  
-/* .form-signin .form-floating:focus-within {
-    z-index: 2;
-} */
-  
-.form-signin input[type="name"] {
-    border-bottom-right-radius: 0;
-    border-bottom-left-radius: 0;
-}
-  
-.form-signin input[type="password"] {
-    margin-bottom: 10px;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-}    
-=======
-.bg-navbar {
-    background-color: #181c24;
-}
->>>>>>> a240cf32f74dc9abb97cd09dfc8a34633bf94263
